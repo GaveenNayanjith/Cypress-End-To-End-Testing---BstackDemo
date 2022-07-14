@@ -1,0 +1,18 @@
+{
+  "name": "e2ebstack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaveen Nayanajith",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.3.0"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.0"
+  },
+  "keywords": [],
+  "description": ""
+}
